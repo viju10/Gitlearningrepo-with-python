@@ -22,7 +22,7 @@ print()
 
 class Father:
     def __init__(self):
-        print("parent class constructor execute")
+        print("parent class constructor execute") ajay
     def show(self):
         print("parent class method execute")
 class Son(Father):
